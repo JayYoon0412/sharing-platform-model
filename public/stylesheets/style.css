@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "OCR A Std", Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+li {
+  margin: 5px;
+}
+
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
